@@ -18,3 +18,4 @@ Neste trecho, é abordado o processo de garantir que um input aceite apenas núm
 
 ## Obtendo a moeda selecionada
 Nesta aula, aprendemos a obter a moeda selecionada pelo usuário através de um input no formulário. Utilizamos o evento de submit do formulário para capturar essa informaçnao e desativar o comportamento padrão de recarregar a página. Ao selecionar uma moeda e clicar em "converter em reais", conseguimos visualizar no console o valor da moeda selecionada, identificado por um código de três letras.
+

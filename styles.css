@@ -136,7 +136,7 @@ footer {
     max-height: 196px;
 
     text-align: center;
-    /* display: none; */
+    display: none;
 
     overflow-y: scroll;
 }
