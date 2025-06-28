@@ -24,3 +24,4 @@ Neste trecho da aula, foi abordado o processo de conversão de moedas em uma apl
 
 ## Exibindo o footer
 Neste trecho da aula, foi abordado como exibir dinamicamente o footer do projeto. Foi explicado como adicionar e remover classes no elemento footer para exibi-lo ou ocultá-lo. Além disso, foi mencionado o uso do bloco try-catch para tratamento de erros e a importância de organizar o código de forma clara. O instrutor demonstrou como selecionar elementos do documento e como manipular classes CSS para controlar a exibição do footer.
+
