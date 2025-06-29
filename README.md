@@ -75,7 +75,7 @@ This project uses:
 ✅ Simulate a real-world development process by rebuilding a project from scratch
 
 ## 🔗 Live Project
-➡️ [Access the live version](https://andreskull2.github.io/convert/) <br>
+➡️ [Access the live version](https://andreskull2.github.io/convert-v1/) <br>
 🎓 [Watch the Rocketseat Fullstack classes](https://www.rocketseat.com.br/formacao/fullstack)
 
 ---
